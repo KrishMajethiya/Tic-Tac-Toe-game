@@ -1,1 +1,3 @@
-# Tic-Tac-Toe-game
+This project is about console game development using c++ in which i developed TIC TAC TOE game.
+
+TIC-TAC-TOE, often called “Noughts and crosses”, stands as a timeless and universal game that epitomizes simplicity while concealing strategic depth. It’s a two-player game where each participant takes turns making spaces on 3x3 grid. The objective is clear-cut: achieve a line of three of your symbols(“X” or “O”) horizontally , vertically, or diagonally. Despite it’s straightforward rules, Tic-Tac- Toe presents an engaging challenge that requires tactical thinking and anticipation of opponent’s moves.
